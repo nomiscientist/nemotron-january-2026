@@ -42,7 +42,6 @@ env/
 
 # IDE and editors
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -77,3 +76,5 @@ Thumbs.db
 
 # GGUF files (large model format)
 *.gguf
+config.bat
+node_modules
